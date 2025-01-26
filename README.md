@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @bisesh7
-- 👀 I’m interested in nodejs, nestjs, reactjs, mongodb projects
-- Experienced software developer adept in bringing forth expertise in design, installation, testing and maintenance of software systems, equipped with a diverse and promising skill-set. 
-- Proficient in various platforms languages and embedded systems. Experienced with the latest cutting edge development tools and procedures. 
+- Full Stack developer with handful of experiences in design, development and testing of Web Based Applications. Over the time during and after study, continuously evolved learning latest cutting-edge technologies applying it in work and personal college projects. A quick learner ready to dive deeper into ever changing technological challenges.
 - Able to efficiently self-manage during independent projects, as well as collaborate as part of production team.
