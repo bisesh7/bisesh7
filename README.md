@@ -1,4 +1,4 @@
-👋 Hi there! I’m **Bisesh Shakya**, a results-driven **Full Stack Developer** with expertise in crafting high-performance web applications for finance, real estate, and SaaS industries. In 2024, I graduated with a **Post-Baccalaureate in Computer and Information Systems** from Douglas College, where I deepened my mastery of cloud-native development and Agile methodologies.  
+👋 Hi there! I’m **Bisesh Shakya**, a results-driven **Full Stack Developer** with expertise in crafting high-performance web applications for finance, real estate, and SaaS industries. I graduated with a **Post-Baccalaureate in Computer and Information Systems** from Douglas College, where I deepened my mastery of cloud-native development and Agile methodologies.  
 
 🚀 **What I Excel At:**  
 - Architecting **scalable web apps** using modern stacks like React, Node.js, Flask and Spring Boot.  
